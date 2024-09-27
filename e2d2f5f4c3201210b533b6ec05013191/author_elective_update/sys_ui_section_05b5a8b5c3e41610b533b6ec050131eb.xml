@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="05b5a8b5c3e41610b533b6ec050131eb" sys_domain="global" table="x_1474055_expense_expense_approvals" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-10 10:24:20</sys_created_on>
+            <sys_id>99b5e8b9c3681610b533b6ec050131a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1474055_expense_expense_approvals" sys_domain="global" view="Default view">05b5a8b5c3e41610b533b6ec050131eb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-10 10:24:20</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>expense_id</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-10 10:24:20</sys_created_on>
+            <sys_id>55b5e8b9c3681610b533b6ec050131a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1474055_expense_expense_approvals" sys_domain="global" view="Default view">05b5a8b5c3e41610b533b6ec050131eb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-10 10:24:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-10 10:24:20</sys_created_on>
+            <sys_id>d9b5e8b9c3681610b533b6ec050131a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1474055_expense_expense_approvals" sys_domain="global" view="Default view">05b5a8b5c3e41610b533b6ec050131eb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-10 10:24:20</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-10 10:24:20</sys_created_on>
+            <sys_id>51b5e8b9c3681610b533b6ec050131a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1474055_expense_expense_approvals" sys_domain="global" view="Default view">05b5a8b5c3e41610b533b6ec050131eb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-10 10:24:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-10 10:24:20</sys_created_on>
+            <sys_id>d5b5e8b9c3681610b533b6ec050131a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1474055_expense_expense_approvals" sys_domain="global" view="Default view">05b5a8b5c3e41610b533b6ec050131eb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-10 10:24:20</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1474055_expense_expense_approvals</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-10 10:24:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>05b5a8b5c3e41610b533b6ec050131eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1474055_expense_expense_approvals</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Expense Management" source="x_1474055_expense">e2d2f5f4c3201210b533b6ec05013191</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</sys_scope>
+            <sys_update_name>sys_ui_section_05b5a8b5c3e41610b533b6ec050131eb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-10 10:24:20</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</application>
+        <file_path/>
+        <instance_id>9b179d421b9a3d5032182f8dee4bcb19</instance_id>
+        <instance_name>dev205252</instance_name>
+        <name>sys_ui_section_05b5a8b5c3e41610b533b6ec050131eb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="05b5a8b5c3e41610b533b6ec050131eb" sys_domain="global" table="x_1474055_expense_expense_approvals" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-10 10:24:20</sys_created_on><sys_id>99b5e8b9c3681610b533b6ec050131a6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1474055_expense_expense_approvals" sys_domain="global" view="Default view">05b5a8b5c3e41610b533b6ec050131eb</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-10 10:24:20</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>expense_id</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-10 10:24:20</sys_created_on><sys_id>55b5e8b9c3681610b533b6ec050131a7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1474055_expense_expense_approvals" sys_domain="global" view="Default view">05b5a8b5c3e41610b533b6ec050131eb</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-10 10:24:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-10 10:24:20</sys_created_on><sys_id>d9b5e8b9c3681610b533b6ec050131a7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1474055_expense_expense_approvals" sys_domain="global" view="Default view">05b5a8b5c3e41610b533b6ec050131eb</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-10 10:24:20</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>approval</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-10 10:24:20</sys_created_on><sys_id>51b5e8b9c3681610b533b6ec050131a8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1474055_expense_expense_approvals" sys_domain="global" view="Default view">05b5a8b5c3e41610b533b6ec050131eb</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-10 10:24:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-10 10:24:20</sys_created_on><sys_id>d5b5e8b9c3681610b533b6ec050131a8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1474055_expense_expense_approvals" sys_domain="global" view="Default view">05b5a8b5c3e41610b533b6ec050131eb</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-10 10:24:20</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1474055_expense_expense_approvals</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-10 10:24:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>05b5a8b5c3e41610b533b6ec050131eb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1474055_expense_expense_approvals</sys_name><sys_overrides/><sys_package display_value="Expense Management" source="x_1474055_expense">e2d2f5f4c3201210b533b6ec05013191</sys_package><sys_policy/><sys_scope display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</sys_scope><sys_update_name>sys_ui_section_05b5a8b5c3e41610b533b6ec050131eb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-10 10:24:20</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-762780446</payload_hash>
+        <record_name>Expense Approvals</record_name>
+        <reverted_from/>
+        <source>66d2f5f4c3201210b533b6ec05013195</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-10 10:24:20</sys_created_on>
+        <sys_id>95b5e8b9c3681610b533b6ec050131aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191db767b690000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-10 10:24:20</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>5db5e8b9476816109c5a24b1eb2071a9</update_guid>
+        <update_guid_history>5db5e8b9476816109c5a24b1eb2071a9:-762780446,4db5e8b9c1681610b921cf9e8bed3ba1:2032493500</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-10 11:10:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>34d320d54b6e44a88fc7b751d42e0e79</sys_id>
+        <sys_metadata>05b5a8b5c3e41610b533b6ec050131eb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1474055_expense_expense_approvals</sys_name>
+        <sys_package display_value="Expense Management" source="x_1474055_expense">e2d2f5f4c3201210b533b6ec05013191</sys_package>
+        <sys_parent display_value="">5b94776dc3641610b533b6ec050131d7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</sys_scope>
+        <sys_scope_delete display_value="">2f0b14cd3c77489f9bffd2e3ab2918e9</sys_scope_delete>
+        <sys_update_name>sys_ui_section_05b5a8b5c3e41610b533b6ec050131eb</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_05b5a8b5c3e41610b533b6ec050131eb">95b5e8b9c3681610b533b6ec050131aa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-10 11:10:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

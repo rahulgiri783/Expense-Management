@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="88062502c3609610b533b6ec050131de" label="Approval" max_length="40" name="x_1474055_expense_approval" type="collection">
+        <element choice="3" default="requested" label="Approval State" max_length="40" name="approval_state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Rejected" value="rejected"/>
+                <element inactive_on_update="false" label="Requested" value="requested"/>
+                <element inactive_on_update="false" label="Approved" value="approved"/>
+            </choice>
+        </element>
+        <element label="Approver" max_length="32" name="approver" reference="sys_user" type="reference"/>
+        <element label="Comments" max_length="4000" name="comments" type="string"/>
+        <element label="Request ID" max_length="32" name="request_id" reference="x_1474055_expense_employee_expense" type="reference"/>
+        <index name="index">
+            <element name="approver"/>
+        </index>
+        <index name="index2">
+            <element name="request_id"/>
+        </index>
+    </element>
+</database>

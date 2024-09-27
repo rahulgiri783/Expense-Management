@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Expense Management">a8447570c3201210b533b6ec050131b3</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Expense Approvals</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1474055_expense_expense_approvals</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_1474055_expense.expense_approvals_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-10 07:58:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1e640871c3e41610b533b6ec050131ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Expense Approvals</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Expense Management" source="x_1474055_expense">e2d2f5f4c3201210b533b6ec05013191</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</sys_scope>
+        <sys_update_name>sys_app_module_1e640871c3e41610b533b6ec050131ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-10 07:58:52</sys_updated_on>
+        <timeline_page/>
+        <title>Expense Approvals</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</application>
+        <file_path/>
+        <instance_id>9b179d421b9a3d5032182f8dee4bcb19</instance_id>
+        <instance_name>dev205252</instance_name>
+        <name>sys_app_module_1e640871c3e41610b533b6ec050131ac</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Expense Management">a8447570c3201210b533b6ec050131b3</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Expense Approvals</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1474055_expense_expense_approvals</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_1474055_expense.expense_approvals_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-10 07:58:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1e640871c3e41610b533b6ec050131ac</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Expense Approvals</sys_name><sys_overrides/><sys_package display_value="Expense Management" source="x_1474055_expense">e2d2f5f4c3201210b533b6ec05013191</sys_package><sys_policy/><sys_scope display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</sys_scope><sys_update_name>sys_app_module_1e640871c3e41610b533b6ec050131ac</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-10 07:58:52</sys_updated_on><timeline_page/><title>Expense Approvals</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1254929731</payload_hash>
+        <record_name>Expense Approvals</record_name>
+        <reverted_from/>
+        <source>66d2f5f4c3201210b533b6ec05013195</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-10 07:58:52</sys_created_on>
+        <sys_id>96640871c3e41610b533b6ec050131b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191daf14d540000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-10 07:58:52</sys_updated_on>
+        <type>Module</type>
+        <update_guid>5a640871dce41610f854ae1d217768af</update_guid>
+        <update_guid_history>5a640871dce41610f854ae1d217768af:1254929731</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Expense Approvals">4c407039c3a81610b533b6ec05013141</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-10 11:10:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>021a8ac84a6c4f0d9a7344c541f6dd59</sys_id>
+        <sys_metadata>1e640871c3e41610b533b6ec050131ac</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Expense Approvals</sys_name>
+        <sys_package display_value="Expense Management" source="x_1474055_expense">e2d2f5f4c3201210b533b6ec05013191</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</sys_scope>
+        <sys_scope_delete display_value="">2f0b14cd3c77489f9bffd2e3ab2918e9</sys_scope_delete>
+        <sys_update_name>sys_app_module_1e640871c3e41610b533b6ec050131ac</sys_update_name>
+        <sys_update_version display_value="sys_app_module_1e640871c3e41610b533b6ec050131ac">96640871c3e41610b533b6ec050131b0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-10 11:10:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
