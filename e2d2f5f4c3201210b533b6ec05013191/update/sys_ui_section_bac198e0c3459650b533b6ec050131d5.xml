@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Employee Expense" section_id="bac198e0c3459650b533b6ec050131d5" sys_domain="global" table="x_1474055_expense_approval" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-01 09:32:55</sys_created_on>
+            <sys_id>01536868c3859650b533b6ec050131d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Expense" display_value="Employee Expense" name="x_1474055_expense_approval" sys_domain="global" view="Default view">bac198e0c3459650b533b6ec050131d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-01 09:32:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>employee</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-01 09:32:56</sys_created_on>
+            <sys_id>85536868c3859650b533b6ec050131d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Expense" display_value="Employee Expense" name="x_1474055_expense_approval" sys_domain="global" view="Default view">bac198e0c3459650b533b6ec050131d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-01 09:32:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-01 09:32:56</sys_created_on>
+            <sys_id>0d536868c3859650b533b6ec050131d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Expense" display_value="Employee Expense" name="x_1474055_expense_approval" sys_domain="global" view="Default view">bac198e0c3459650b533b6ec050131d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-01 09:32:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-01 09:32:56</sys_created_on>
+            <sys_id>81536868c3859650b533b6ec050131d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Expense" display_value="Employee Expense" name="x_1474055_expense_approval" sys_domain="global" view="Default view">bac198e0c3459650b533b6ec050131d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-01 09:32:56</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>expense_date</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-01 09:32:56</sys_created_on>
+            <sys_id>09536868c3859650b533b6ec050131d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Expense" display_value="Employee Expense" name="x_1474055_expense_approval" sys_domain="global" view="Default view">bac198e0c3459650b533b6ec050131d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-01 09:32:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>amount</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-01 09:32:56</sys_created_on>
+            <sys_id>8d536868c3859650b533b6ec050131d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Expense" display_value="Employee Expense" name="x_1474055_expense_approval" sys_domain="global" view="Default view">bac198e0c3459650b533b6ec050131d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-01 09:32:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-01 09:32:56</sys_created_on>
+            <sys_id>05536868c3859650b533b6ec050131d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Expense" display_value="Employee Expense" name="x_1474055_expense_approval" sys_domain="global" view="Default view">bac198e0c3459650b533b6ec050131d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-01 09:32:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Employee Expense</caption>
+            <header>false</header>
+            <name>x_1474055_expense_approval</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-01 08:16:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bac198e0c3459650b533b6ec050131d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1474055_expense_approval</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Expense Management" source="x_1474055_expense">e2d2f5f4c3201210b533b6ec05013191</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</sys_scope>
+            <sys_update_name>sys_ui_section_bac198e0c3459650b533b6ec050131d5</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-01 08:16:19</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

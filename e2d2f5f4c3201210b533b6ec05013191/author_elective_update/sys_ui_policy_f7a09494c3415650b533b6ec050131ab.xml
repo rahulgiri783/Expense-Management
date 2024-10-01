@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="DELETE">
+        <active>true</active>
+        <conditions/>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>true</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+
+}]]></script_true>
+        <set_values/>
+        <short_description>Make Status Field Read-Only for Non-Admins</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 13:34:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f7a09494c3415650b533b6ec050131ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Make Status Field Read-Only for Non-Admins</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Expense Management" source="x_1474055_expense">e2d2f5f4c3201210b533b6ec05013191</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</sys_scope>
+        <sys_update_name>sys_ui_policy_f7a09494c3415650b533b6ec050131ab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 13:34:39</sys_updated_on>
+        <table>x_1474055_expense_employee_expense</table>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_ui_policy>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</application>
+        <file_path/>
+        <instance_id>9b179d421b9a3d5032182f8dee4bcb19</instance_id>
+        <instance_name>dev205252</instance_name>
+        <name>sys_ui_policy_f7a09494c3415650b533b6ec050131ab</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_policy"&gt;&lt;sys_ui_policy action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;conditions/&gt;&lt;description/&gt;&lt;global&gt;true&lt;/global&gt;&lt;inherit&gt;false&lt;/inherit&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;on_load&gt;true&lt;/on_load&gt;&lt;order&gt;100&lt;/order&gt;&lt;reverse_if_false&gt;true&lt;/reverse_if_false&gt;&lt;run_scripts&gt;true&lt;/run_scripts&gt;&lt;script_false&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_false&gt;&lt;script_true&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_true&gt;&lt;set_values/&gt;&lt;short_description&gt;Make Status Field Read-Only for Non-Admins&lt;/short_description&gt;&lt;sys_class_name&gt;sys_ui_policy&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-09-30 13:34:39&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;f7a09494c3415650b533b6ec050131ab&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Make Status Field Read-Only for Non-Admins&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Expense Management" source="x_1474055_expense"&gt;e2d2f5f4c3201210b533b6ec05013191&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Expense Management"&gt;e2d2f5f4c3201210b533b6ec05013191&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_policy_f7a09494c3415650b533b6ec050131ab&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-09-30 13:34:39&lt;/sys_updated_on&gt;&lt;table&gt;x_1474055_expense_employee_expense&lt;/table&gt;&lt;ui_type&gt;10&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_ui_policy&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1849472794</payload_hash>
+        <record_name>Make Status Field Read-Only for Non-Admins</record_name>
+        <reverted_from/>
+        <source>934c16d4c3b09210b533b6ec050131c9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 13:34:39</sys_created_on>
+        <sys_id>8c119494c3415650b533b6ec050131f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1924323e5fc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 13:34:39</sys_updated_on>
+        <type>UI Policy</type>
+        <update_guid>80119494c7415650f0456bb83d32cff6</update_guid>
+        <update_guid_history>80119494c7415650f0456bb83d32cff6:-1849472794</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 13:38:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy">sys_ui_policy</sys_db_object>
+        <sys_id>eb97299df83c43d09e74e94c5a20d100</sys_id>
+        <sys_metadata>f7a09494c3415650b533b6ec050131ab</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Make Status Field Read-Only for Non-Admins</sys_name>
+        <sys_package display_value="Expense Management" source="x_1474055_expense">e2d2f5f4c3201210b533b6ec05013191</sys_package>
+        <sys_parent display_value="Employee Expense">1e04bd38c3201210b533b6ec0501317a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</sys_scope>
+        <sys_scope_delete display_value="">2f0b14cd3c77489f9bffd2e3ab2918e9</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_f7a09494c3415650b533b6ec050131ab</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_f7a09494c3415650b533b6ec050131ab">8c119494c3415650b533b6ec050131f6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 13:38:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

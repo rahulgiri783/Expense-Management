@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="DELETE">
+        <disabled>ignore</disabled>
+        <field>amount</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-08 11:44:20</sys_created_on>
+        <sys_data_policy display_value="Making Employee Name, Expense Receipts Feilds Set Mandatory. ">01c362c9c3e45210b533b6ec05013101</sys_data_policy>
+        <sys_id>71c4e20dc3e45210b533b6ec050131fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>amount</sys_name>
+        <sys_package display_value="Expense Management" source="x_1474055_expense">e2d2f5f4c3201210b533b6ec05013191</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</sys_scope>
+        <sys_update_name>sys_data_policy_rule_71c4e20dc3e45210b533b6ec050131fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-08 11:44:20</sys_updated_on>
+        <table>x_1474055_expense_employee_expense</table>
+    </sys_data_policy_rule>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</application>
+        <file_path/>
+        <instance_id>9b179d421b9a3d5032182f8dee4bcb19</instance_id>
+        <instance_name>dev205252</instance_name>
+        <name>sys_data_policy_rule_71c4e20dc3e45210b533b6ec050131fd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule"><sys_data_policy_rule action="INSERT_OR_UPDATE"><disabled>ignore</disabled><field>amount</field><mandatory>true</mandatory><sys_class_name>sys_data_policy_rule</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-08 11:44:20</sys_created_on><sys_data_policy display_value="Making Employee Name, Expense Receipts Feilds Set Mandatory. ">01c362c9c3e45210b533b6ec05013101</sys_data_policy><sys_id>71c4e20dc3e45210b533b6ec050131fd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>amount</sys_name><sys_package display_value="Expense Management" source="x_1474055_expense">e2d2f5f4c3201210b533b6ec05013191</sys_package><sys_policy/><sys_scope display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</sys_scope><sys_update_name>sys_data_policy_rule_71c4e20dc3e45210b533b6ec050131fd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-08 11:44:20</sys_updated_on><table>x_1474055_expense_employee_expense</table></sys_data_policy_rule></record_update>]]></payload>
+        <payload_hash>-1466534508</payload_hash>
+        <record_name>amount</record_name>
+        <reverted_from/>
+        <source>66d2f5f4c3201210b533b6ec05013195</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-08 11:44:20</sys_created_on>
+        <sys_id>61d4aac5c3e45210b533b6ec050131e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191d173003c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-08 11:44:20</sys_updated_on>
+        <type>Data Policy Rule</type>
+        <update_guid>65d4aac533e452103b0b794de552a6e6</update_guid>
+        <update_guid_history>65d4aac533e452103b0b794de552a6e6:-1466534508</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-01 05:30:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_data_policy_rule">sys_data_policy_rule</sys_db_object>
+        <sys_id>3ad584ae9e3d4f4694a4e6cdf3b484e4</sys_id>
+        <sys_metadata>71c4e20dc3e45210b533b6ec050131fd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>amount</sys_name>
+        <sys_package display_value="Expense Management" source="x_1474055_expense">e2d2f5f4c3201210b533b6ec05013191</sys_package>
+        <sys_parent display_value="Making Employee Name, Amount Spent, Expense Receipts Feilds Set Mandatory. ">01c362c9c3e45210b533b6ec05013101</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</sys_scope>
+        <sys_scope_delete display_value="">2f0b14cd3c77489f9bffd2e3ab2918e9</sys_scope_delete>
+        <sys_update_name>sys_data_policy_rule_71c4e20dc3e45210b533b6ec050131fd</sys_update_name>
+        <sys_update_version display_value="sys_data_policy_rule_71c4e20dc3e45210b533b6ec050131fd">61d4aac5c3e45210b533b6ec050131e7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-01 05:30:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
