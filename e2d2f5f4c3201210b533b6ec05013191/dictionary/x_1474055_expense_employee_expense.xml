@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="1e04bd38c3201210b533b6ec0501317a" label="Employee Expense" max_length="40" name="x_1474055_expense_employee_expense" type="collection">
+        <element attributes="omit_sys_original=true" label="Amount" max_length="20" name="u_currency_1" type="currency"/>
         <element attributes="encode_utf8=false" label="Employee" max_length="32" name="employee" reference="sys_user" type="reference"/>
         <element label="Description" max_length="4000" name="description" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
@@ -11,8 +12,7 @@
                 <element inactive_on_update="false" label="Approved" value="approved"/>
             </choice>
         </element>
-        <element label="Amount" max_length="20" name="amount" type="decimal"/>
-        <element choice="3" default="meals" label="Category" max_length="40" name="category" type="choice">
+        <element choice="1" label="Category" mandatory="true" max_length="40" name="category" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Office Supplies" value="os"/>
                 <element inactive_on_update="false" label="Meals" value="meals"/>
@@ -22,12 +22,13 @@
         <element choice="3" default="draft" label="Status" max_length="40" name="status" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Submitted" sequence="1" value="submitted"/>
-                <element inactive_on_update="false" label="Paid" sequence="4" value="paid"/>
+                <element inactive="true" inactive_on_update="true" label="Paid" sequence="4" value="paid"/>
                 <element inactive_on_update="false" label="Draft" sequence="0" value="draft"/>
-                <element inactive_on_update="false" label="Approved" sequence="2" value="approved"/>
-                <element inactive_on_update="false" label="Rejected" sequence="3" value="rejected"/>
+                <element inactive="true" inactive_on_update="true" label="Approved" sequence="2" value="approved"/>
+                <element inactive="true" inactive_on_update="true" label="Rejected" sequence="3" value="rejected"/>
             </choice>
         </element>
+        <element attributes="omit_sys_original=true,serializer=com.glide.currency2.Currency2XMLSerializer" label="New FX Currency" max_length="32" name="u_currency2_2" type="currency2"/>
         <element label="Expense Date" max_length="40" name="expense_date" type="glide_date"/>
         <element label="Approver" max_length="32" name="approver" reference="sys_user" type="reference"/>
         <index name="index">
@@ -35,6 +36,9 @@
         </index>
         <index name="index2">
             <element name="employee"/>
+        </index>
+        <index name="index3">
+            <element name="u_currency2_2"/>
         </index>
     </element>
 </database>

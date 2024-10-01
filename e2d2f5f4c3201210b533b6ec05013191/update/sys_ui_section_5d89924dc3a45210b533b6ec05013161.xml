@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-09-08 11:09:27</sys_created_on>
-            <sys_id>6adc5681c3e45210b533b6ec0501318d</sys_id>
+            <sys_created_on>2024-09-30 12:42:00</sys_created_on>
+            <sys_id>b405c4d4c3015650b533b6ec05013180</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1474055_expense_employee_expense" sys_domain="global" view="Default view">5d89924dc3a45210b533b6ec05013161</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-09-08 11:09:27</sys_updated_on>
+            <sys_updated_on>2024-09-30 12:42:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>employee</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-09-08 11:09:27</sys_created_on>
-            <sys_id>e2dc5681c3e45210b533b6ec0501318e</sys_id>
+            <sys_created_on>2024-09-30 12:42:00</sys_created_on>
+            <sys_id>3c05c4d4c3015650b533b6ec05013180</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1474055_expense_employee_expense" sys_domain="global" view="Default view">5d89924dc3a45210b533b6ec05013161</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-09-08 11:09:27</sys_updated_on>
+            <sys_updated_on>2024-09-30 12:42:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,27 +32,27 @@
             <element>category</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-09-08 11:09:27</sys_created_on>
-            <sys_id>6adc5681c3e45210b533b6ec0501318e</sys_id>
+            <sys_created_on>2024-09-30 12:42:00</sys_created_on>
+            <sys_id>b005c4d4c3015650b533b6ec05013181</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1474055_expense_employee_expense" sys_domain="global" view="Default view">5d89924dc3a45210b533b6ec05013161</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-09-08 11:09:27</sys_updated_on>
+            <sys_updated_on>2024-09-30 12:42:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>amount</element>
+            <element>u_currency_1</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-09-08 11:09:27</sys_created_on>
-            <sys_id>eedc5681c3e45210b533b6ec0501318e</sys_id>
+            <sys_created_on>2024-09-30 12:42:00</sys_created_on>
+            <sys_id>3805c4d4c3015650b533b6ec05013181</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1474055_expense_employee_expense" sys_domain="global" view="Default view">5d89924dc3a45210b533b6ec05013161</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-09-08 11:09:27</sys_updated_on>
+            <sys_updated_on>2024-09-30 12:42:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-09-08 11:09:27</sys_created_on>
-            <sys_id>66dc5681c3e45210b533b6ec0501318f</sys_id>
+            <sys_created_on>2024-09-30 12:42:00</sys_created_on>
+            <sys_id>bc05c4d4c3015650b533b6ec05013181</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1474055_expense_employee_expense" sys_domain="global" view="Default view">5d89924dc3a45210b533b6ec05013161</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-09-08 11:09:27</sys_updated_on>
+            <sys_updated_on>2024-09-30 12:42:00</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>status</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-09-08 11:09:27</sys_created_on>
-            <sys_id>eadc5681c3e45210b533b6ec0501318f</sys_id>
+            <sys_created_on>2024-09-30 12:42:00</sys_created_on>
+            <sys_id>3405c4d4c3015650b533b6ec05013182</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1474055_expense_employee_expense" sys_domain="global" view="Default view">5d89924dc3a45210b533b6ec05013161</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-09-08 11:09:27</sys_updated_on>
+            <sys_updated_on>2024-09-30 12:42:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>expense_date</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-09-08 11:09:27</sys_created_on>
-            <sys_id>62dc5681c3e45210b533b6ec05013190</sys_id>
+            <sys_created_on>2024-09-30 12:42:00</sys_created_on>
+            <sys_id>b805c4d4c3015650b533b6ec05013182</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1474055_expense_employee_expense" sys_domain="global" view="Default view">5d89924dc3a45210b533b6ec05013161</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-09-08 11:09:27</sys_updated_on>
+            <sys_updated_on>2024-09-30 12:42:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>receipt</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-09-08 11:09:27</sys_created_on>
-            <sys_id>e6dc5681c3e45210b533b6ec05013190</sys_id>
+            <sys_created_on>2024-09-30 12:42:00</sys_created_on>
+            <sys_id>3005c4d4c3015650b533b6ec05013183</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1474055_expense_employee_expense" sys_domain="global" view="Default view">5d89924dc3a45210b533b6ec05013161</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-09-08 11:09:27</sys_updated_on>
+            <sys_updated_on>2024-09-30 12:42:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>approval_state</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-09-10 10:40:54</sys_created_on>
-            <sys_id>7f79a4fdc3681610b533b6ec050131fd</sys_id>
+            <sys_created_on>2024-09-30 12:42:00</sys_created_on>
+            <sys_id>b405c4d4c3015650b533b6ec05013183</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1474055_expense_employee_expense" sys_domain="global" view="Default view">5d89924dc3a45210b533b6ec05013161</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-09-10 10:40:54</sys_updated_on>
+            <sys_updated_on>2024-09-30 12:42:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -130,13 +130,13 @@
             <element>approver</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-09-10 10:48:13</sys_created_on>
-            <sys_id>872b68fdc3681610b533b6ec05013126</sys_id>
+            <sys_created_on>2024-09-30 12:42:00</sys_created_on>
+            <sys_id>3c05c4d4c3015650b533b6ec05013183</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1474055_expense_employee_expense" sys_domain="global" view="Default view">5d89924dc3a45210b533b6ec05013161</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-09-10 10:48:13</sys_updated_on>
+            <sys_updated_on>2024-09-30 12:42:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
