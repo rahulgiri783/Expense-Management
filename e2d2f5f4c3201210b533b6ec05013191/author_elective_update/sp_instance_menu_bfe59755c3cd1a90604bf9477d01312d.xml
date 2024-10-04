@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_menu">
+    <sp_instance_menu action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">f2c5dfd5c3cd1a90604bf9477d013176</sp_column>
+        <sp_widget display_value="Header Menu">5ef595c1cb12020000f8d856634c9c6e</sp_widget>
+        <sys_class_name>sp_instance_menu</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-04 06:28:43</sys_created_on>
+        <sys_id>bfe59755c3cd1a90604bf9477d01312d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Manage Your Daily Expenses with Us !</sys_name>
+        <sys_package display_value="Expense Management" source="x_1474055_expense">e2d2f5f4c3201210b533b6ec05013191</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</sys_scope>
+        <sys_update_name>sp_instance_menu_bfe59755c3cd1a90604bf9477d01312d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-04 06:29:14</sys_updated_on>
+        <title>Manage Your Daily Expenses with Us !</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_menu>
+    <sys_translated_text action="DELETE" query="documentkey=bfe59755c3cd1a90604bf9477d01312d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</application>
+        <file_path/>
+        <instance_id>2daeb6f11b1af510c8432f8dee4bcbe5</instance_id>
+        <instance_name>dev204658</instance_name>
+        <name>sp_instance_menu_bfe59755c3cd1a90604bf9477d01312d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_menu"><sp_instance_menu action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">f2c5dfd5c3cd1a90604bf9477d013176</sp_column><sp_widget display_value="Header Menu">5ef595c1cb12020000f8d856634c9c6e</sp_widget><sys_class_name>sp_instance_menu</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-04 06:28:43</sys_created_on><sys_id>bfe59755c3cd1a90604bf9477d01312d</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Manage Your Daily Expenses with Us !</sys_name><sys_package display_value="Expense Management" source="x_1474055_expense">e2d2f5f4c3201210b533b6ec05013191</sys_package><sys_policy/><sys_scope display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</sys_scope><sys_update_name>sp_instance_menu_bfe59755c3cd1a90604bf9477d01312d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-04 06:29:14</sys_updated_on><title>Manage Your Daily Expenses with Us !</title><url/><widget_parameters/></sp_instance_menu><sys_translated_text action="delete_multiple" query="documentkey=bfe59755c3cd1a90604bf9477d01312d"/></record_update>]]></payload>
+        <payload_hash>1720341441</payload_hash>
+        <record_name>Manage Your Daily Expenses with Us !</record_name>
+        <reverted_from/>
+        <source>5a22a7cfc3785e50604bf9477d0131fb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-04 06:29:14</sys_created_on>
+        <sys_id>93065fd5c3cd1a90604bf9477d013157</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1925637dd630000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-04 06:29:14</sys_updated_on>
+        <type>Instance with Menu</type>
+        <update_guid>1b065fd54ccd1a90b38edc41af155e56</update_guid>
+        <update_guid_history>1b065fd54ccd1a90b38edc41af155e56:1720341441,7fe5935982cd1a903d51d84146e7f061:-135865088</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Manage Your Daily Expenses with Us !">d6361b59c3cd1a90604bf9477d0131c0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-04 06:30:00</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_menu">sp_instance_menu</sys_db_object>
+        <sys_id>2b076bf26730447a9d79e75bcb164484</sys_id>
+        <sys_metadata>bfe59755c3cd1a90604bf9477d01312d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Manage Your Daily Expenses with Us !</sys_name>
+        <sys_package display_value="Expense Management" source="x_1474055_expense">e2d2f5f4c3201210b533b6ec05013191</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</sys_scope>
+        <sys_scope_delete display_value="">2f0b14cd3c77489f9bffd2e3ab2918e9</sys_scope_delete>
+        <sys_update_name>sp_instance_menu_bfe59755c3cd1a90604bf9477d01312d</sys_update_name>
+        <sys_update_version display_value="sp_instance_menu_bfe59755c3cd1a90604bf9477d01312d">93065fd5c3cd1a90604bf9477d013157</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-04 06:30:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
