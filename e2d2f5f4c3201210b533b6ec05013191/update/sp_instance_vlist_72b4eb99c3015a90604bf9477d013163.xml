@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_vlist">
+    <sp_instance_vlist action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field>sys_created_by</display_field>
+        <field_list/>
+        <filter table="sys_email">recipients=abel.tuter@example.com<item endquery="false" field="recipients" goto="false" newquery="false" operator="=" or="false" value="abel.tuter@example.com"/>
+        </filter>
+        <glyph>list</glyph>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>1</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">f6e12f59c3015a90604bf9477d0131f3</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Simple List">5b255672cb03020000f8d856634c9c28</sp_widget>
+        <sys_class_name>sp_instance_vlist</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-04 07:33:23</sys_created_on>
+        <sys_id>72b4eb99c3015a90604bf9477d013163</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Expense Management" source="x_1474055_expense">e2d2f5f4c3201210b533b6ec05013191</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</sys_scope>
+        <sys_update_name>sp_instance_vlist_72b4eb99c3015a90604bf9477d013163</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-04 07:55:08</sys_updated_on>
+        <table>sys_email</table>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"always_show": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"panel_body_height": {
+		"value": "10",
+		"displayValue": "10"
+	},
+	"image_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"secondary_fields": {
+		"value": "subject,mailbox,sys_created_on",
+		"displayValue": "subject,mailbox,sys_created_on"
+	},
+	"rounded_images": {
+		"value": "",
+		"displayValue": ""
+	},
+	"list_page": {
+		"value": "b574e51147132100ba13a5554ee4903e",
+		"displayValue": "list"
+	},
+	"hide_footer": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"view": {
+		"value": "b2dc6c709f002200f45c7b9ac42e70e5",
+		"displayValue": "Admin View"
+	},
+	"disable_record_watcher": {
+		"value": "",
+		"displayValue": ""
+	},
+	"filter_acls": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]></widget_parameters>
+    </sp_instance_vlist>
+    <sys_translated_text action="delete_multiple" query="documentkey=72b4eb99c3015a90604bf9477d013163"/>
+</record_update>
