@@ -12,27 +12,27 @@
         <order>1</order>
         <roles/>
         <sc_cat_item/>
-        <sc_category/>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
         <short_description>Request for the Expense Approval to your Higher Authority !</short_description>
         <size>md</size>
         <sp_column display_value="1">b4fd1715c3015a90604bf9477d01318f</sp_column>
-        <sp_page display_value="sc_home">fe87a11147132100ba13a5554ee490b9</sp_page>
+        <sp_page/>
         <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
         <sys_class_name>sp_instance_link</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-10-04 07:04:35</sys_created_on>
         <sys_id>012e1355c3015a90604bf9477d01313a</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>Request For Expense Approval</sys_name>
         <sys_package display_value="Expense Management" source="x_1474055_expense">e2d2f5f4c3201210b533b6ec05013191</sys_package>
         <sys_policy/>
         <sys_scope display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</sys_scope>
         <sys_update_name>sp_instance_link_012e1355c3015a90604bf9477d01313a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-04 07:41:59</sys_updated_on>
+        <sys_updated_on>2024-10-11 08:01:27</sys_updated_on>
         <title>Request For Expense Approval</title>
-        <type>page</type>
-        <url/>
+        <type>url</type>
+        <url>https://dev204658.service-now.com/sp?id=sc_cat_item&amp;sys_id=25838528c3c51690604bf9477d01316a&amp;referrer=popular_items</url>
         <widget_parameters><![CDATA[{
 	"link_template": {
 		"value": "",

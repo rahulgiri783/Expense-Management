@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table">
+    <sp_instance_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field/>
+        <field_list/>
+        <filter table="x_1474055_expense_employee_expense">employeeDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item endquery="false" field="employee" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+        </filter>
+        <glyph>pencil</glyph>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>1</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">9429676fc385d210604bf9477d0131a1</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Count">1d8ad230ff223100ba13ffffffffffb9</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 07:39:09</sys_created_on>
+        <sys_id>3329a76fc385d210604bf9477d0131be</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Expense Request Created!</sys_name>
+        <sys_package display_value="Expense Management" source="x_1474055_expense">e2d2f5f4c3201210b533b6ec05013191</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</sys_scope>
+        <sys_update_name>sp_instance_table_3329a76fc385d210604bf9477d0131be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 07:44:02</sys_updated_on>
+        <table>x_1474055_expense_employee_expense</table>
+        <title>Expense Request Created!</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_table>
+    <sys_translated_text action="delete_multiple" query="documentkey=3329a76fc385d210604bf9477d0131be"/>
+</record_update>

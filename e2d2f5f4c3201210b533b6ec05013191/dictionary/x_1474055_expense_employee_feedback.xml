@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ecafeba7c3c5d210604bf9477d013113" label="Employee Feedback" max_length="40" name="x_1474055_expense_employee_feedback" type="collection">
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Feedback User" max_length="32" name="feedback_user" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="4" label="Rating" max_length="40" name="rating" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Good" value="3"/>
+                <element inactive_on_update="false" label="Average" value="2"/>
+                <element inactive_on_update="false" label="like" value="4"/>
+                <element inactive_on_update="false" label="Bad" value="1"/>
+                <element inactive_on_update="false" label="Extremely likely" value="5"/>
+            </choice>
+        </element>
+        <element label="Comments" max_length="40" name="comments" type="string"/>
+        <element label="Feedback Date" max_length="40" name="feedback_date" type="glide_date_time"/>
+        <index name="index">
+            <element name="feedback_user"/>
+        </index>
+    </element>
+</database>
