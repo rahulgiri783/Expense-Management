@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>danger</color>
+        <css/>
+        <glyph>times</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>Expense Request Not Approved</short_description>
+        <size>md</size>
+        <sp_column display_value="3">5029676fc385d210604bf9477d0131a6</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 07:52:00</sys_created_on>
+        <sys_id>842c2b63c3c5d210604bf9477d013160</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Rejected Expense Request !</sys_name>
+        <sys_package display_value="Expense Management" source="x_1474055_expense">e2d2f5f4c3201210b533b6ec05013191</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</sys_scope>
+        <sys_update_name>sp_instance_link_842c2b63c3c5d210604bf9477d013160</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 07:52:46</sys_updated_on>
+        <title>Rejected Expense Request !</title>
+        <type>page</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=842c2b63c3c5d210604bf9477d013160"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</application>
+        <file_path/>
+        <instance_id>2daeb6f11b1af510c8432f8dee4bcbe5</instance_id>
+        <instance_name>dev204658</instance_name>
+        <name>sp_instance_link_842c2b63c3c5d210604bf9477d013160</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;danger&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;times&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item/&gt;&lt;sc_category/&gt;&lt;short_description&gt;Expense Request Not Approved&lt;/short_description&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="3"&gt;5029676fc385d210604bf9477d0131a6&lt;/sp_column&gt;&lt;sp_page/&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-11 07:52:00&lt;/sys_created_on&gt;&lt;sys_id&gt;842c2b63c3c5d210604bf9477d013160&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Rejected Expense Request !&lt;/sys_name&gt;&lt;sys_package display_value="Expense Management" source="x_1474055_expense"&gt;e2d2f5f4c3201210b533b6ec05013191&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Expense Management"&gt;e2d2f5f4c3201210b533b6ec05013191&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_842c2b63c3c5d210604bf9477d013160&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-11 07:52:46&lt;/sys_updated_on&gt;&lt;title&gt;Rejected Expense Request !&lt;/title&gt;&lt;type&gt;page&lt;/type&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=842c2b63c3c5d210604bf9477d013160"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1567769696</payload_hash>
+        <record_name>Rejected Expense Request !</record_name>
+        <reverted_from/>
+        <source>5a22a7cfc3785e50604bf9477d0131fb</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 07:52:46</sys_created_on>
+        <sys_id>974c2f63c3c5d210604bf9477d013105</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1927a90d9c70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 07:52:46</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>1f4c2f631ac5d210328438dcde8ab604</update_guid>
+        <update_guid_history>1f4c2f631ac5d210328438dcde8ab604:1567769696,cc2c2b63dac5d210a458f565a4936261:-1851686187</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Rejected Expense Request !">8e5ca363c3c5d210604bf9477d01319b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 07:52:58</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>81c82a962df74bd79b1e593319142bc9</sys_id>
+        <sys_metadata>842c2b63c3c5d210604bf9477d013160</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rejected Expense Request !</sys_name>
+        <sys_package display_value="Expense Management" source="x_1474055_expense">e2d2f5f4c3201210b533b6ec05013191</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</sys_scope>
+        <sys_scope_delete display_value="">2f0b14cd3c77489f9bffd2e3ab2918e9</sys_scope_delete>
+        <sys_update_name>sp_instance_link_842c2b63c3c5d210604bf9477d013160</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_842c2b63c3c5d210604bf9477d013160">974c2f63c3c5d210604bf9477d013105</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 07:52:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

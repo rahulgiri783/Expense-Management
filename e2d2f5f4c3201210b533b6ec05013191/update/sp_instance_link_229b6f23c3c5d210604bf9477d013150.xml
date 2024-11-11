@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
     <sp_instance_link action="INSERT_OR_UPDATE">
         <active>true</active>
-        <class_name>mt-3</class_name>
+        <class_name/>
         <color>warning</color>
         <css/>
-        <glyph>question</glyph>
+        <glyph>star-o</glyph>
         <id/>
         <kb_article/>
         <kb_category/>
@@ -13,26 +13,26 @@
         <roles/>
         <sc_cat_item/>
         <sc_category/>
-        <short_description>Check the status of Expense Approval from here !</short_description>
+        <short_description>Your few minutes will help us to improve more !</short_description>
         <size>md</size>
-        <sp_column display_value="2">30fd1715c3015a90604bf9477d013192</sp_column>
-        <sp_page display_value="request_page">81917711c3815a90604bf9477d01311d</sp_page>
+        <sp_column display_value="4">9429676fc385d210604bf9477d0131a8</sp_column>
+        <sp_page/>
         <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
         <sys_class_name>sp_instance_link</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-10-04 07:08:01</sys_created_on>
-        <sys_id>57ee1795c3015a90604bf9477d013106</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>Check Expense Approval Status !</sys_name>
+        <sys_created_on>2024-10-11 07:49:43</sys_created_on>
+        <sys_id>229b6f23c3c5d210604bf9477d013150</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Give your feedback</sys_name>
         <sys_package display_value="Expense Management" source="x_1474055_expense">e2d2f5f4c3201210b533b6ec05013191</sys_package>
         <sys_policy/>
         <sys_scope display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</sys_scope>
-        <sys_update_name>sp_instance_link_57ee1795c3015a90604bf9477d013106</sys_update_name>
+        <sys_update_name>sp_instance_link_229b6f23c3c5d210604bf9477d013150</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-14 09:48:03</sys_updated_on>
-        <title>Check Expense Approval Status !</title>
-        <type>page</type>
-        <url/>
+        <sys_updated_on>2024-10-11 10:07:56</sys_updated_on>
+        <title>Give your feedback</title>
+        <type>url</type>
+        <url>https://dev204658.service-now.com/sp?id=sc_cat_item&amp;sys_id=9a053bafc3c5d210604bf9477d0131d4&amp;sysparm_category=e15706fc0a0a0aa7007fc21e1ab70c2f</url>
         <widget_parameters><![CDATA[{
 	"link_template": {
 		"value": "",
@@ -40,5 +40,5 @@
 	}
 }]]></widget_parameters>
     </sp_instance_link>
-    <sys_translated_text action="delete_multiple" query="documentkey=57ee1795c3015a90604bf9477d013106"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=229b6f23c3c5d210604bf9477d013150"/>
 </record_update>

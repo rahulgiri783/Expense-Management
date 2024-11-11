@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Expense Management">12640871c3e41610b533b6ec050131b1</application>
+        <filter/>
+        <name>Employee_Feedbacks</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_1474055_expense.employee_feedback_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 08:08:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1ecf6fa7c3c5d210604bf9477d0131da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Employee_Feedbacks</sys_name>
+        <sys_package display_value="Expense Management" source="x_1474055_expense">e2d2f5f4c3201210b533b6ec05013191</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</sys_scope>
+        <sys_update_name>sys_ui_module_1ecf6fa7c3c5d210604bf9477d0131da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 08:08:00</sys_updated_on>
+        <table>x_1474055_expense_employee_feedback</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

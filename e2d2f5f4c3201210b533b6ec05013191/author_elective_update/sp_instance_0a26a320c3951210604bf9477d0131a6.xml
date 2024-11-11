@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">dd26a720c3951210604bf9477d013169</sp_column>
+        <sp_widget display_value="Footer-Instance Security Center">30817eda53502300a699ddeeff7b1215</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-14 09:59:51</sys_created_on>
+        <sys_id>0a26a320c3951210604bf9477d0131a6</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Expense Management" source="x_1474055_expense">e2d2f5f4c3201210b533b6ec05013191</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</sys_scope>
+        <sys_update_name>sp_instance_0a26a320c3951210604bf9477d0131a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-14 10:00:56</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=0a26a320c3951210604bf9477d0131a6"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</application>
+        <file_path/>
+        <instance_id>2daeb6f11b1af510c8432f8dee4bcbe5</instance_id>
+        <instance_name>dev204658</instance_name>
+        <name>sp_instance_0a26a320c3951210604bf9477d0131a6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">dd26a720c3951210604bf9477d013169</sp_column><sp_widget display_value="Footer-Instance Security Center">30817eda53502300a699ddeeff7b1215</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-14 09:59:51</sys_created_on><sys_id>0a26a320c3951210604bf9477d0131a6</sys_id><sys_mod_count>4</sys_mod_count><sys_name/><sys_package display_value="Expense Management" source="x_1474055_expense">e2d2f5f4c3201210b533b6ec05013191</sys_package><sys_policy/><sys_scope display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</sys_scope><sys_update_name>sp_instance_0a26a320c3951210604bf9477d0131a6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-14 10:00:56</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=0a26a320c3951210604bf9477d0131a6"/></record_update>]]></payload>
+        <payload_hash>-1706557764</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>5a22a7cfc3785e50604bf9477d0131fb</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-14 10:00:56</sys_created_on>
+        <sys_id>75666f20c3951210604bf9477d0131b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1928a7944190000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-14 10:00:56</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>79666f2046951210b588017ec03d82b1</update_guid>
+        <update_guid_history>79666f2046951210b588017ec03d82b1:-1706557764,e646ab20d9951210bdaee3174a0658a8:1012184795,8646ab209c95121029198e626285ce66:-1706557764,4836e7208c9512108a83c112851981ab:1012184795,c226a72067951210a7c98b3ac396d6e2:-1706557764</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">9176af20c3951210604bf9477d0131e7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-14 10:01:10</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>169d053ae78a4aec87a14e950b1ac564</sys_id>
+        <sys_metadata>0a26a320c3951210604bf9477d0131a6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Expense Management" source="x_1474055_expense">e2d2f5f4c3201210b533b6ec05013191</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Expense Management">e2d2f5f4c3201210b533b6ec05013191</sys_scope>
+        <sys_scope_delete display_value="">2f0b14cd3c77489f9bffd2e3ab2918e9</sys_scope_delete>
+        <sys_update_name>sp_instance_0a26a320c3951210604bf9477d0131a6</sys_update_name>
+        <sys_update_version display_value="sp_instance_0a26a320c3951210604bf9477d0131a6">75666f20c3951210604bf9477d0131b2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-14 10:01:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
